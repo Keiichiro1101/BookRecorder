@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BookRecorder3</string>
+    <string name="delete" >Delete</string>
+    <string name="title" />
+    <string name="author" />
+    <string name="search" >Search</string>
+    <string name="enter_title_here" >Enter Any Keywords or Phrases</string>
+    <string name="save" >Save</string>
+    <string name="book_list" >BookList</string>
+    <string name="summary" >Summary</string>
+    <string name="back" >Back</string>
+    <string name="clear" >Clear</string>
+</resources>
